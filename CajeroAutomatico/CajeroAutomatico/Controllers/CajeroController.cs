@@ -11,11 +11,6 @@ namespace CajeroAutomatico.Controllers
     {
         // GET: Cajero
         [HttpGet]
-        public ActionResult Index()
-        {
-            return View();
-        }
-
         public ActionResult Index1()
         {
             return View();
